@@ -1,0 +1,30 @@
+body{
+  font-size: 27px;
+  font-family: 'Inter';
+  font-style: normal;
+  width: 592px;
+  text-align: center;
+  margin:0px auto 33px;
+  background-color:purple;
+  
+}
+h1{
+  font-size: 80px;
+}
+.hero{
+  line-height: 30px;
+  margin-top:0px;
+}
+.hero img{
+  margin-bottom: 10px;
+}
+span{
+  color: #FF9900;
+
+}
+p+p{
+  margin-bottom: 90px;
+}
+.footer{
+ 
+}
